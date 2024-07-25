@@ -7,8 +7,8 @@ I'm an spiring software engineer with a relish for low-level languages and syste
 
 I am also currently enrolled in the ALX Software Engineering program specializing in Backend Engineering.
 	<details id=3 open>
-		<summary><h4>🌱 Constant Learner:</h4></summary>
-		I’m always exploring new technologies and paradigms. Whether it’s digging into different assembly language types, experimenting with microcontrollers, malware development and analysis, or studying compiler design, I thrive on continuous learning.
+		<h4>🌱 Constant Learner:</h4>
+			I’m always exploring new technologies and paradigms. Whether it’s digging into different assembly language types, experimenting with microcontrollers, malware development and analysis, or studying compiler design, I thrive on continuous learning.
 	</details>
 
 ## My Technical Toolbox
