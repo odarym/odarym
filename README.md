@@ -40,6 +40,10 @@ I am also currently enrolled in the ALX Software Engineering program specializin
 	<ol>
 		<li><a href="https://github.com/odarym/printf/">Printf</a> - A custom implementation of the C standard library’s printf function.</li>
 		<li><a href="https://github.com/odarym/simple_shell">Simple Shell</a> - A simple UNIX command line interpreter.</li>
+		<!--
+		[Open Source Contribution]: Contributed to [Project X] by optimizing critical sections using assembly instructions.
+		[Personal Project]: Built a retro-style game engine in C++, complete with sprite rendering and collision detection.
+		-->
 	</ol>
 </details>
 
