@@ -49,7 +49,9 @@ I am also currently enrolled in the ALX Software Engineering program specializin
 
 ### Reach out to me
 
-<p align="center">
-	<a href="https://www.twitter.com/moseodary/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px></a>
+<p align="left">
+	<a href="https://www.twitter.com/moseodary/">
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px>
+	</a>
 
 
