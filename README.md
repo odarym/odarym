@@ -47,8 +47,6 @@ I am also currently enrolled in the ALX Software Engineering program specializin
 	</ol>
 </details>
 
----------------------------------------------------------------------------------
-
 ## Reach out to me
 
 <p align="left">
