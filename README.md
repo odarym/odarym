@@ -40,7 +40,7 @@ I am also currently enrolled in the ALX Software Engineering program specializin
    	-->
 </details>
 
-<details id=2 open>
+<details id=2>
 	<summary><h2>🚀 Projects and Contributions:</h2></summary>
 	<ol>
 		<li><a href="https://github.com/odarym/printf/">Printf</a> - A custom implementation of the C standard library’s printf function.</li>
