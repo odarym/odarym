@@ -9,7 +9,7 @@ I am also currently enrolled in the ALX Software Engineering program specializin
 <h4>🌱 Constant Learner:</h4>
 I’m always exploring new technologies and paradigms. Whether it’s digging into different assembly language types, experimenting with microcontrollers, malware development and analysis, or studying compiler design, I thrive on continuous learning.
 </p>
-	<h2>My Technical Toolbox</h2>
+	<h2>Tools and Languages</h2>
 	<p>
 		<img alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="38" height="38"/>&nbsp;
 		<img alt="CPP" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="38" height="38"/>&nbsp;
