@@ -52,7 +52,7 @@ I am also currently enrolled in the ALX Software Engineering program specializin
 		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px>
 	</a>
  <a href="mailto:mosesodary101@gmail.com">
-    <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    <img width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
 </p>
 
