@@ -4,18 +4,15 @@ _Hello! I'm Moses Odari._
 <summary><h2>About Me</h2></summary>
 
 I'm an spiring software engineer with a relish for low-level languages and systems programming. I thrive on diving deep into the intricacies of code, optimizing performance, and understanding how hardware and software interact. My journey so far has led me to explore languages like C, C++ and assembly, where I’ve honed my skills in memory management, data structures, algorithm design and efficient problem-solving. Understanding how CPUs work and being able to read and understand compiler generated assembly is also fun and fascinating.
-
 I am also currently enrolled in the ALX Software Engineering program specializing in Backend Engineering.
 		<h4>🌱 Constant Learner:</h4>
 			I’m always exploring new technologies and paradigms. Whether it’s digging into different assembly language types, experimenting with microcontrollers, malware development and analysis, or studying compiler design, I thrive on continuous learning.
-
 
 ## My Technical Toolbox
 
 | C | C++ | Python | GO | Javascript | HTML | CSS | MySQL | Docker | Visual Studio |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 |	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VisualStudio" alt="VisualStudio" height="55"/> |
-
 </details>
 
 <details id=1 open>
