@@ -34,7 +34,21 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
 		</a>
 	</p>
 
-<details id=1>
+
+<details id=2 open>
+	<summary><h2>🚀 Projects and Contributions:</h2></summary>
+	<ol>
+		<li><a href="https://github.com/odarym/printf/">Printf</a> - A custom implementation of the C standard library’s printf function.</li>
+		<li><a href="https://github.com/odarym/simple_shell">Simple Shell</a> - A simple UNIX command line interpreter.</li>
+		<!--
+		[Open Source Contribution]: Contributed to [Project X] by optimizing critical sections using assembly instructions.
+		[Personal Project]: Built a retro-style game engine in C++, complete with sprite rendering and collision detection.
+		-->
+	</ol>
+</details>
+
+
+<details id=1 open>
 	<summary><h2>Currently working On:</h2></summary>
 	<h4>ALX Software Engineering Certification (Backend):</h4>
 	<ul>
@@ -49,18 +63,6 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
  		<li>Developing a lightweight operating system kernel in C, implementing context switching and memory management.</li>
 		<li>[Personal Project]: Built a retro-style game engine in C++, complete with sprite rendering and collision detection.</li>
    	-->
-</details>
-
-<details id=2 open>
-	<summary><h2>🚀 Projects and Contributions:</h2></summary>
-	<ol>
-		<li><a href="https://github.com/odarym/printf/">Printf</a> - A custom implementation of the C standard library’s printf function.</li>
-		<li><a href="https://github.com/odarym/simple_shell">Simple Shell</a> - A simple UNIX command line interpreter.</li>
-		<!--
-		[Open Source Contribution]: Contributed to [Project X] by optimizing critical sections using assembly instructions.
-		[Personal Project]: Built a retro-style game engine in C++, complete with sprite rendering and collision detection.
-		-->
-	</ol>
 </details>
 
 
