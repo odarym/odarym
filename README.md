@@ -4,9 +4,10 @@ _<h4>Hello! I'm Moses Odari.</h4>_
 <summary><h2>About Me</h2></summary>
 <p>
 I'm an spiring software engineer with a relish for low-level languages and systems programming. I thrive on diving deep into the intricacies of code, optimizing performance, and understanding how hardware and software interact. My journey so far has led me to explore languages like C, C++ and assembly, where I’ve honed my skills in memory management, data structures, algorithm design and efficient problem-solving. Understanding how CPUs work and being able to read and understand compiler generated assembly is also fun and fascinating.
+
 I am also currently enrolled in the ALX Software Engineering program specializing in Backend Engineering.
-		<h4>🌱 Constant Learner:</h4>
-			I’m always exploring new technologies and paradigms. Whether it’s digging into different assembly language types, experimenting with microcontrollers, malware development and analysis, or studying compiler design, I thrive on continuous learning.
+<h4>🌱 Constant Learner:</h4>
+I’m always exploring new technologies and paradigms. Whether it’s digging into different assembly language types, experimenting with microcontrollers, malware development and analysis, or studying compiler design, I thrive on continuous learning.
 </p>
 	<h2>My Technical Toolbox</h2>
 	<p>
