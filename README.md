@@ -61,7 +61,7 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
 			<img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg">
 		</a>
  		<a href="mailto:mosesodary101@gmail.com">
-			<img width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg">
+			<img width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
 		</a>
 	</p>
 
