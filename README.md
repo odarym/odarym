@@ -23,7 +23,7 @@ I am also currently enrolled in the ALX Software Engineering program specializin
 	</p>
 </details>
 
-<details id=1 open>
+<details id=1>
 	<summary><h2>Currently working On:</h2></summary>
 	<h4>ALX Software Engineering Certification (Backend):</h4>
 	<ul>
