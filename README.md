@@ -56,7 +56,7 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
 <h2>Contact info</h2>
 	<p align="left">
 		<a href="https://www.twitter.com/moseodary/">
-			<img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg">
+			<img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg">
 		</a>
 		&nbsp;&nbsp;&nbsp;&nbsp;
  		<a href="mailto:mosesodary101@gmail.com">
