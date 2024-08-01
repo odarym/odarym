@@ -23,18 +23,6 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
 	</p>
 </details>
 
-<h2>Contact info</h2>
-	<p align="left">
-		<a href="https://www.twitter.com/moseodary/">
-			<img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg">
-		</a>
-		&nbsp;&nbsp;&nbsp;&nbsp;
- 		<a href="mailto:mosesodary101@gmail.com">
-			<img width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
-		</a>
-	</p>
-
-
 <details id=2 open>
 	<summary><h2>🚀 Projects and Contributions:</h2></summary>
 	<ol>
@@ -64,5 +52,16 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
 		<li>[Personal Project]: Built a retro-style game engine in C++, complete with sprite rendering and collision detection.</li>
    	-->
 </details>
+
+<h2>Contact info</h2>
+	<p align="left">
+		<a href="https://www.twitter.com/moseodary/">
+			<img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg">
+		</a>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+ 		<a href="mailto:mosesodary101@gmail.com">
+			<img width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
+		</a>
+	</p>
 
 
