@@ -60,6 +60,7 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
 		<a href="https://www.twitter.com/moseodary/">
 			<img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg">
 		</a>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  		<a href="mailto:mosesodary101@gmail.com">
 			<img width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
 		</a>
