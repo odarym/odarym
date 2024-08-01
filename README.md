@@ -23,6 +23,17 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
 	</p>
 </details>
 
+<h2>Contact info</h2>
+	<p align="left">
+		<a href="https://www.twitter.com/moseodary/">
+			<img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg">
+		</a>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+ 		<a href="mailto:mosesodary101@gmail.com">
+			<img width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
+		</a>
+	</p>
+
 <details id=1>
 	<summary><h2>Currently working On:</h2></summary>
 	<h4>ALX Software Engineering Certification (Backend):</h4>
@@ -40,7 +51,7 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
    	-->
 </details>
 
-<details id=2>
+<details id=2 open>
 	<summary><h2>🚀 Projects and Contributions:</h2></summary>
 	<ol>
 		<li><a href="https://github.com/odarym/printf/">Printf</a> - A custom implementation of the C standard library’s printf function.</li>
@@ -51,17 +62,5 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
 		-->
 	</ol>
 </details>
-
-
-<h2>Reach out to me</h2>
-	<p align="left">
-		<a href="https://www.twitter.com/moseodary/">
-			<img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg">
-		</a>
-		&nbsp;&nbsp;&nbsp;&nbsp;
- 		<a href="mailto:mosesodary101@gmail.com">
-			<img width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
-		</a>
-	</p>
 
 
