@@ -53,7 +53,7 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
    	-->
 </details>
 
-<h2>Contact info</h2>
+<summary><h2>Contact info</h2><summary/>
 	<p align="center">
 		<a href="https://www.twitter.com/moseodary/">
 			<img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg">
