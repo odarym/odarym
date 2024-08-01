@@ -11,17 +11,17 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
 </p>
 	<h2>My Technical Toolbox</h2>
 	<p>
-		<img alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="42" height="42"/>&nbsp;
-		<img alt="CPP" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>&nbsp;
-		<img alt="Py3" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="42" height="42"/>&nbsp;
-		<img alt="Go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="42" height="42"/>&nbsp;
-		<img alt="JS" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="42" height="42"/>&nbsp;
-		<img alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="42" height="42"/>&nbsp;
-		<img  alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="42" height="42"/>&nbsp;
-		<img alt="SQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42"/>&nbsp;
-		<img alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="42" height="42"/>&nbsp;
-		<img alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42"/>&nbsp;
-		<img alt="VisualStudio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="42" height="42"/>&nbsp;
+		<img alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="38" height="38"/>&nbsp;
+		<img alt="CPP" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="38" height="38"/>&nbsp;
+		<img alt="Py3" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="38" height="38"/>&nbsp;
+		<img alt="Go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="38" height="38"/>&nbsp;
+		<img alt="JS" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="38" height="38"/>&nbsp;
+		<img alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="38" height="38"/>&nbsp;
+		<img  alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="38" height="38"/>&nbsp;
+		<img alt="SQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="38" height="38"/>&nbsp;
+		<img alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="38" height="38"/>&nbsp;
+		<img alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" height="38"/>&nbsp;
+		<img alt="VisualStudio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="38" height="38"/>&nbsp;
 	</p>
 </details>
 
