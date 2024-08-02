@@ -53,13 +53,13 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
    	-->
 </details>
 
-<summary><h2>Contact info</h2><summary/>
-		<a href="https://www.twitter.com/moseodary/">
-			<img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg">
-		</a>
-		&nbsp;&nbsp;&nbsp;
-		 <a href="mailto:mosesodary101@gmail.com">
-			<img width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
-		</a>
+## <h2>Contact info</h2>
+<a href="https://www.twitter.com/moseodary/">
+	<img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:mosesodary101@gmail.com">
+	<img width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
+</a>
 
 
