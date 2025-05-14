@@ -37,7 +37,7 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
 
 
 <details id=1 open>
-	<summary><h2>Currently working On:</h2></summary>
+	<summary><h2>Certifications:</h2></summary>
 	<h4>ALX Software Engineering Certification (Backend):</h4>
 	<ul>
 		<li>HTML/CSS: Crafting beautiful and responsive web interfaces.</li>
