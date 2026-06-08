@@ -36,6 +36,12 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
 	</ol>
 </details>
 
+</details>
+	<summary><h4>Currently working on...</h4></summary>
+ 		<li>Developing a lightweight operating system kernel in C, implementing context switching and memory management.</li>
+		<li>[Personal Project]: Built a retro-style game engine in C++, complete with sprite rendering and collision detection.</li>
+   	
+<details>
 
 <details id=1 open>
 	<summary><h2>Certifications:</h2></summary>
@@ -48,14 +54,11 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
   		<li>Apache: Serving web pages and handling HTTP requests as a web server.</li>
     		<li>Nginx: Nginx: Managing web traffic efficiently as a web server, reverse proxy, and load balancer.</li>
        	</ul>
-	<!--
- 		<li>Developing a lightweight operating system kernel in C, implementing context switching and memory management.</li>
-		<li>[Personal Project]: Built a retro-style game engine in C++, complete with sprite rendering and collision detection.</li>
-   	-->
+	
 </details>
 
 ## Contact info
-<a href="https://www.twitter.com/moseodary/">
+<a href="https://www.twitter.com/hexPortRacer/">
 	<img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg">
 </a>
 &nbsp;&nbsp;&nbsp;
