@@ -35,8 +35,7 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
 </details>
 
 <details id=2 open>
-	<summary><h2>Currently projects</h2></summary>
-	<h4>Currently working on...</h4>
+	<summary><h2>Currently working on</h2></summary>
 	<ul>
  		<li>Developing a lightweight operating system kernel in C, implementing context switching and memory management.</li>
 		<li>Building a retro-style game engine in C++, complete with sprite rendering and collision detection.</li>
