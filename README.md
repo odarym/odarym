@@ -1,5 +1,5 @@
 <details id=0 open>
-<summary><h2>About Me</h2></summary>
+
 <p>
 I'm a software engineer with a relish for low-level languages and systems programming. I thrive on diving deep into the intricacies of code, optimizing performance and understanding how hardware and software interact. My journey so far has led me to explore languages like C, C++ and assembly, where I’ve honed my skills in memory management, data structures, algorithm design and efficient problem-solving. Understanding how CPUs work and being able to read and understand compiler generated assembly is also fun and fascinating.
 	
