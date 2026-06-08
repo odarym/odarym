@@ -23,7 +23,7 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
 	</p>
 </details>
 
-<details id=2 open>
+<details id=1 open>
 	<summary><h2>🚀 Projects and Contributions:</h2></summary>
 	<ol>
 		<li><a href="https://github.com/odarym/printf/">Printf</a> - A custom implementation of the C standard library’s printf function.</li>
@@ -36,16 +36,16 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
 	</ol>
 </details>
 
-</details id=5 open>
+<details id=2 open>
 	<summary><h2>Currently projects</h2></summary>
 	<h4>Currently working on...</h4>
 	<ul>
  		<li>Developing a lightweight operating system kernel in C, implementing context switching and memory management.</li>
 		<li>[Personal Project]: Built a retro-style game engine in C++, complete with sprite rendering and collision detection.</li>
 	</ul>
-<details>
+</details>
 
-<details id=1 open>
+<details id=3 open>
 	<summary><h2>Certifications:</h2></summary>
 	<h4>ALX Software Engineering Certification (Backend):</h4>
 	<ul>
