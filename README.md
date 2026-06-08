@@ -1,5 +1,3 @@
-_<h4>Hello! I'm Moses Odari.</h4>_
-
 <details id=0 open>
 <summary><h2>About Me</h2></summary>
 <p>
